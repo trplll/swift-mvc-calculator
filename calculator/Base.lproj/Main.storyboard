@@ -99,8 +99,8 @@
                                     <action selector="num3" destination="BYZ-38-t0r" eventType="touchUpInside" id="R5Z-lk-Azy"/>
                                 </connections>
                             </button>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="0" borderStyle="roundedRect" placeholder="0" textAlignment="right" minimumFontSize="36" translatesAutoresizingMaskIntoConstraints="NO" id="pBf-4n-5tB">
-                                <rect key="frame" x="20" y="37" width="560" height="30"/>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="0" borderStyle="roundedRect" placeholder="0" textAlignment="right" minimumFontSize="36" translatesAutoresizingMaskIntoConstraints="NO" id="pBf-4n-5tB">
+                                <rect key="frame" x="20" y="35" width="560" height="30"/>
                                 <rect key="contentStretch" x="0.0" y="1" width="1" height="1"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="29"/>
                                 <textInputTraits key="textInputTraits"/>
