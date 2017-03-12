@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        inputText.text = ""
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
